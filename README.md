@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 :brazil: I'm a brazilian student, 22 years old.\
-💡  I like to explore new technologies, develop software solutions and ethical hacking. Back-End is my favorite stack.\
+💡  I like to explore new technologies, develop software solutions and ethical hacking.\
 🎓  I’m currently studying Full-Stack Web Development at Trybe.\
 💬  Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️  You can send me an email at eltondantas1999@gmail.com ! I’ll try to respond as soon as I can.
