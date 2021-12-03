@@ -10,7 +10,6 @@ I'm a brazilian student\
  <div style="inline-block">
   <a href="https://github.com/eltonrd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonrd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonrd&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
  ### 🛠 Hard Skills 
@@ -19,6 +18,7 @@ I'm a brazilian student\
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
