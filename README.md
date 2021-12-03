@@ -10,7 +10,6 @@
  <div>
   <a href="https://github.com/eltonrd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonrd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" align="right" />
 </div>
 
  ### 🛠 Hard Skills 
