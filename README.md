@@ -7,11 +7,6 @@ I'm a brazilian student\
 ✉️  You can send me an email. I’ll try to respond as soon as I can. \
 💬  Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
 
- <div style="inline-block">
-  <a href="https://github.com/eltonrd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonrd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
  ### 🛠 Hard Skills 
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
